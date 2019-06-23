@@ -1,0 +1,22 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/obj": true,
+        "**/Library": true,
+        "**/Temp": true,
+        "**/Blender": true,
+        "**/ProjectSettings": true,
+        "**/._*": true,
+        "**/.DS_Store": true,
+        "**/*.csproj": true,
+        "**/*.sln": true,
+        "**/*.meta": true,
+        "**/*.prefab": true,
+        "**/*.asset": true,
+        "**/*.unity": true,
+        "**/*.blend": true,
+        "**/*.fbx": true,
+        "**/*.mat": true,
+        "**/*.png": true
+    }
+}

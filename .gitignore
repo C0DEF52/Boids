@@ -1,5 +1,9 @@
+.DS_Store
+._*
+
 Library/
 Temp/
+obj/
 
 *.csproj
 *.unityproj
@@ -7,4 +11,3 @@ Temp/
 *.pidb
 *.userprefs
 
-.DS_Store
