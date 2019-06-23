@@ -10,4 +10,4 @@ obj/
 *.sln
 *.pidb
 *.userprefs
-
+*.log
